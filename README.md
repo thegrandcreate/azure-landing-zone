@@ -13,7 +13,7 @@ In a corporate environment, unverified software or "dirty" data should never be 
 - **Security:** Network Security Groups (NSGs) enforce a strict "Deny All" outbound policy from the Sandbox to the Clean environment to contain potential breaches.
 
 ### Live Azure Topology
-![Azure Network Topology](./topology-screenshot.png)
+![Azure Network Topology](./topology.png)
 
 ### Enforced Security Rules
 ![NSG Outbound Rule](./nsg-rule.png)
