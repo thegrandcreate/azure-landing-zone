@@ -9,3 +9,4 @@ crash.log
 # Local env files
 .env
 *.auto.tfvars
+.DS_Store
