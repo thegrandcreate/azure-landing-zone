@@ -13,10 +13,10 @@ In a corporate environment, unverified software or "dirty" data should never be 
 - **Security:** Network Security Groups (NSGs) enforce a strict "Deny All" outbound policy from the Sandbox to the Clean environment to contain potential breaches.
 
 ### Live Azure Topology
-![Azure Network Topology](./topology.png)
+![Azure Network Topology](./docs/topology.png)
 
 ### Enforced Security Rules
-![NSG Outbound Rule](./nsg-rule.png)
+![NSG Outbound Rule](./docs/nsg-rule.png)
 
 ## Technical Highlights
 - **Infrastructure as Code:** 100% defined in Terraform.
